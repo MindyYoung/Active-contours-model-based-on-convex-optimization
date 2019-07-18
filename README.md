@@ -12,6 +12,8 @@ We introduce the initial GAV model and CV model which can only solve the local m
 	- Matlab
 		-- GAC
 		-- snake
+	- input 
+		-- dog.jpg
 
 
 # 3. Reference
@@ -24,4 +26,4 @@ We introduce the initial GAV model and CV model which can only solve the local m
 [7].	T. Goldstein, X. Bresson, and S. Osher, “Geometric Applications of the Split Bregman Method: Segmentation and Surface Reconstruction”, Journal of Scientific Computing, 45 (1-3) :272-293, 2010.
 [8].	Y. Yang, and B. Wu, “Split Bregman method for minimization of improved active contour model combining local and global information dynamically”, Journal of Mathematical Analysis and Applications, 389(1):351-366, 2012.
 
-# Active-contours-model-based-on-convex-optimization
+
