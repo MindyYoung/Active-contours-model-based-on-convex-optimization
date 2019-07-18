@@ -17,7 +17,7 @@ We introduce the initial GAV model and CV model which can only solve the local m
 
 
 # 3. Reference
-[1].	M. Kass, A. Witkin, and D. Terzopoulos, “Snakes: Active contour models”, International Journal of Computer Vision, 1 (4) :321-331, 1988.
+->1. M. Kass, A. Witkin, and D. Terzopoulos, “Snakes: Active contour models”, International Journal of Computer Vision, 1 (4) :321-331, 1988.
 [2].	V. Caselles, R. Kimmel, and G. Sapiro, “Geodesic active contours”, International Journal of Computer Vision, 22 (1) :61-79, 1997.
 [3].	 L.D. Cohen, R. Kimmel, “Global Minimum for Active Contour Models: A Minimal Path Approach”, International Journal of Computer Vision, 24 (1) :57-78, 1997
 [4].	X. Bresson, S. Esedoglu, P. Vandergheynst, J. P. Thiran, and S. Osher, “Fast Global Minimization of the Active Contour/Snake Model”, International Journal of Computer Vision, 28 (2) :151-167, 2007.
